@@ -19,6 +19,6 @@ Learning from imbalanced data is a challenging task that has attracted much inte
 Mohosheu, M.S., al Noman, M.A., Newaz, A., & Jabid, T. (2024, May). *A Comprehensive Evaluation of Sampling Techniques in Addressing Class Imbalance Across Diverse Datasets.* In 2024 6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT), pp. 1008-1013. IEEE.
 
 
-![App Screenshot](https://github.com/newaz-aa/Sampling-algorithms-experimental-analysis/blob/main/Flowchart.svg)
-![App Screenshot](https://github.com/newaz-aa/Sampling-algorithms-experimental-analysis/blob/main/smote_variant_mcc_svm_max_all_cost_included.svg)
+![App Screenshot](https://github.com/newaz-aa/Sampling-algorithms-experimental-analysis/blob/main/Figures/Flowchart.svg)
+![App Screenshot](https://github.com/newaz-aa/Sampling-algorithms-experimental-analysis/blob/main/Figures/smote_variant_mcc_svm_max_all_cost_included.svg)
 
